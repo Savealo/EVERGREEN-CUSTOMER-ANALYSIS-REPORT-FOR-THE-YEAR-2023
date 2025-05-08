@@ -236,3 +236,184 @@ Post-analysis elevated this to a broader conclusion: integrating data across dep
 DATA VISUALIZATIONS & CHARTS
 SPENDING TREND
 ![image](https://github.com/user-attachments/assets/3093ea9f-035e-4a5a-a888-5852a229b26e)
+The year began strong in January with spending at $2,698,373.49, but this dropped significantly in February to $1,875,805.65. March saw a sharp recovery, reaching the highest point of the year at $2,706,568.86. However, a gradual decline followed from April ($1,931,930.59) to May ($1,482,034.50), indicating a mid-year slump. Spending rebounded in June to $2,375,885.39 and slightly increased in July to $2,499,474.76 before dropping drastically in August to the year's lowest value of $884,957.92. September showed some recovery at $1,417,092.30, and a significant surge occurred in October, reaching $2,678,696.18. November experienced a moderate decline to $2,311,845.65, followed by a slight rise in December to $2,484,843.61, ending the year on a strong note.
+
+PAYMENT METHODS
+![image](https://github.com/user-attachments/assets/c8079fb0-1cd9-4ce3-9eb8-d12a14bb01e0)
+
+The most used payment method is Digital Wallet, accounting for $7,754,538.81 in transactions, indicating a strong shift toward mobile and app-based payments. This is closely followed by Cash, which surprisingly remains highly relevant with $7,293,700.66, showing that a significant portion of customers still rely on traditional methods. Credit Cards come next at $6,531,489.36, highlighting their continued popularity for flexible spending and rewards. Finally, Debit Cards are the least used among the four, totaling $3,767,780.07, suggesting either customer preference for other methods or possible limitations in debit card acceptance or incentives.
+PURCHASE LOCATIONS BY AMOUNT
+![image](https://github.com/user-attachments/assets/0a1cdf63-6d68-46ae-a7dc-460650825fe1)
+The chart shows that Online purchases and Mobile App purchases each account for 34% of the total purchase amount, indicating a strong preference for digital shopping platforms. This suggests that consumers are equally comfortable making purchases through websites and mobile applications, highlighting the importance of maintaining and optimizing both channels. In-store purchases make up 32%, slightly less than the digital options, yet still a significant portion of total sales. This balance indicates that while digital commerce is leading, physical retail locations continue to play an important role in customer purchasing behavior.
+
+
+
+
+
+
+
+
+TOP 10 PREFFERED ITEMS
+![image](https://github.com/user-attachments/assets/9860f8a1-87c5-4217-9cd2-ad224eec838d)
+The most preferred item among customers is Dinner with Friends, with 823 selections, indicating a strong interest in social experiences. Yoga Classes follow closely with 819 preferences, suggesting high engagement in wellness and fitness activities. Coffee, a staple daily purchase, ranks third at 815, highlighting its consistent popularity. Workout Equipment comes next with 813, reinforcing the trend toward health and fitness investments. Finally, Personal Trainer services, while slightly lower at 795, still show notable demand, indicating a willingness among customers to invest in personalized fitness guidance.
+
+
+
+
+
+
+
+TOP 5 CUSTOMERS BY AMOUNT SPENT
+![image](https://github.com/user-attachments/assets/203c5a05-c098-4ce0-a43f-3f797f855edd)
+Customer CUST_0033 is the highest spender, with a total of $676,346.70, making them the most valuable individual customer. Following closely is CUST_0163, who spent $589,432.75, showing a strong purchasing pattern as well. CUST_0040, CUST_0034, and CUST_0039 spent $515,134.58, $504,948.72, and $498,365.86 respectively, highlighting a consistent and high-value customer segment. The spending differences among these top five customers are relatively small, indicating a stable and loyal high-spending customer base that could be ideal for targeted loyalty programs or exclusive offers.,
+
+
+
+
+
+
+
+LEADING CATEGORIES BY AMOUNT
+![image](https://github.com/user-attachments/assets/8d712aad-9f16-4da4-8b0e-ea601231b6d9)
+The Shopping category overwhelmingly dominates total spending, accounting for $22,654,524.44, far surpassing all other categories. In comparison, Housing and Utilities spending is relatively minimal at $835,391, while Fitness ranks lowest at $336,101.51. This stark contrast suggests that consumer priorities and expenditures are heavily concentrated in discretionary retail purchases rather than essential services or wellness-related expenses. The imbalance also indicates a potential opportunity for growth or promotional focus in underrepresented categories like Fitness and Housing & Utilities.
+
+
+
+
+
+
+
+TOP 10 PREFFERED CATEGORIES BY UNITS PURCHASED
+![image](https://github.com/user-attachments/assets/88d42a1d-805f-4113-b828-87ba6d798370)
+The Fitness category ranks highest in terms of units purchased, with 2,427 units, closely followed by Groceries at 2,410 units, indicating strong consumer engagement with health and everyday essentials. Gifts (2,364 units), Food (2,355 units), and Personal Hygiene (2,331 units) also show high purchase volumes, suggesting consistent demand across both necessity and discretionary spending. This pattern reveals that while shopping (from a previous chart) dominates by monetary value, essential and wellness-related categories lead in quantity, implying lower unit costs but higher frequency of purchase.
+
+
+
+
+
+
+
+
+
+FINAL DASHBOARD
+![image](https://github.com/user-attachments/assets/4ff82226-4fc9-47e0-a962-a7cad44a2bd6)
+
+The final dashboard highlights the combined correlations and relationship between the individual charts with the help of slicers. 
+
+OBSERVATIONS AND ACTIONABLE RECOMENDATIONS
+Financial Overview
+Total Amount Spent: $25,347,508.90
+Top Spending Month: March, with the highest monthly expenditure at $3,499,474.76.
+Lowest Spending Month: August, with $884,957.92.
+
+ Payment Methods
+Top Payment Method: Digital Wallet ($7.75M), showing a clear preference for digital transactions.
+Followed by:
+Cash: $7.29M
+Credit Card: $6.53M
+Debit Card: $3.77M
+
+ Purchase Locations
+Online and Mobile App dominate equally at 34% each of the total amount spent.
+In-store purchases account for 32%, slightly lower but still significant.
+
+ Spending by Category
+Shopping is the leading category by amount, with a massive spend of $22.65M, dwarfing other categories.
+Housing & Utilities: $835K
+Fitness: Only $336K despite being high in units sold, suggesting low-cost frequent purchases.
+
+Category by Units Purchased
+Fitness (2,427 units), Groceries (2,410), and Gifts (2,364) lead by volume.
+Indicates consumers frequently buy low-value, high-need items.
+Contrast: Shopping leads by dollar amount, but not by volume—likely high-value, lower-frequency purchases.
+
+Customer Insights
+Top Customer: CUST_0033, spending $676K.
+The top 5 customers collectively contributed ~$2.78M, over 10% of the total.
+
+ Item Preferences
+Most popular items include:
+Dinner with Friends (823 selections)
+Yoga Class, Coffee, and Workout Equipment follow closely.
+Suggests a trend toward wellness and social experiences.
+Trends Summary
+Spending is seasonal, peaking in March and October, and dipping significantly mid-year.
+Likely driven by events, promotions, or seasonal behaviors.
+
+RECOMMENDATIONS
+. Observation: March had the highest spending; August the lowest.
+Recommendation:
+Boost mid-year promotions (especially in July–August) with targeted discounts, bundles, or loyalty rewards.
+Analyze March success (e.g., seasonal offers or campaigns) and replicate similar strategies during low-performing months.
+
+Payment Methods
+Observation: Digital Wallet is the most used payment method.
+Recommendation:
+Promote Digital Wallet-exclusive offers to further drive adoption and speed up checkout.
+Ensure seamless digital payment experience by minimizing app bugs or slowdowns that may hinder transactions.
+
+ Purchase Locations
+Observation: Online and Mobile App purchases dominate at 68% combined.
+Recommendation:
+Prioritize online and mobile UX—optimize the interface, product suggestions, and checkout flows.
+Offer click-and-collect or app-exclusive deals to further boost app engagement.
+
+ Spending by Category
+Observation: Shopping accounts for 89%+ of total spend.
+Recommendation:
+Expand high-margin product offerings within the Shopping category to increase profitability.
+Cross-sell lower-performing categories (e.g., Housing & Utilities) during Shopping category checkouts.
+
+Category by Units Purchased
+Observation: Fitness and Groceries are top by volume but not by amount.
+Recommendation:
+Bundle low-cost high-volume items (e.g., fitness products) to increase cart value.
+Introduce subscription or loyalty models for groceries and fitness items to ensure repeat purchases.
+
+Customer Insights
+Observation: Top 5 customers account for over 10% of spend.
+Recommendation:
+Implement a VIP program with exclusive perks for high-spending customers to retain loyalty.
+Profile top customers to build lookalike audiences for advertising.
+
+ Item Preferences
+Observation: Social and wellness-oriented items dominate.
+Recommendation:
+Create lifestyle bundles (e.g., "Wellness Weekend Kit" with Yoga Class + Coffee + Dinner discounts).
+Promote experiences over products—highlight benefits like relaxation, community, and health.
+
+ Trends Summary
+Observation: Spending is seasonal with clear peaks and dips.
+Recommendation:
+Plan marketing calendar around peaks—preload campaigns in February and September.
+During dips, use flash sales, reminders, and re-engagement campaigns to maintain steady revenue.
+
+
+CONCLUSION
+In 2023, Evergreen’s customers demonstrated a strong preference for digital engagement—favoring online and mobile app purchases and using digital wallets as the top payment method—while spending peaked in March and dipped in August, with the Shopping category dominating total expenditure, Fitness leading in units purchased, and customer interest centered around wellness and social experiences such as yoga, coffee, and dining with friends.
+
+
+
+Limitations:
+1.	Lack of Demographic Data – The report does not include customer age, gender, income, or location breakdown, limiting personalized insights and targeted marketing strategies.
+2.	No Profit Margin Analysis – While spending and units sold are presented, the report lacks information on profit margins, making it hard to assess true business performance per category.
+3.	No Customer Feedback or Sentiment – The analysis is purely quantitative and does not reflect customer satisfaction, preferences, or reasons behind their purchasing behavior.
+4.	Static Timeframe – The report only covers the year 2023 without comparisons to previous years, making it difficult to identify long-term trends or growth.
+5.	Limited Behavioral Segmentation – The data does not segment customers based on behavior (e.g., frequency, recency, or loyalty), restricting more nuanced marketing or retention strategies.
+6.	External Factors Not Considered – The impact of external events (e.g., economic conditions, holidays, competitor actions) on sales trends is not analyzed.
+
+Future Research
+1.	Include Demographic Profiling – Collect and analyze customer age, gender, income, and location data to enable more targeted marketing and product personalization.
+2.	Conduct Year-over-Year Comparisons – Analyze data across multiple years to uncover long-term trends, seasonality patterns, and growth trajectories.
+3.	Measure Customer Satisfaction and Sentiment – Integrate surveys, reviews, or social media sentiment analysis to understand the “why” behind customer behavior.
+4.	Analyze Profitability per Category – Go beyond revenue and unit sales by incorporating cost and profit margin data to identify truly high-performing segments.
+5.	Segment Customers by Behavior – Use RFM (Recency, Frequency, Monetary) analysis or clustering to categorize customer types and personalize engagement strategies.
+6.	Track Marketing Campaign Impact – Evaluate how specific promotions or advertising campaigns influence purchase behaviors and sales peaks.
+7.	Monitor External Influences – Consider external variables like holidays, inflation, or competitor activities to explain fluctuations in customer activity.
+8.	Study Churn and Retention Rates – Investigate customer lifecycle data to identify drop-off points and improve retention strategies.
+
+
+REFERENCEE: The data for this project was obtained from Kaggle.com 
+
+
+
